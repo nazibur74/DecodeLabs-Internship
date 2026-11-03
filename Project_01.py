@@ -1,11 +1,9 @@
 import string
 
-
 def sanitize(text):
     text = text.lower()
     text = text.translate(str.maketrans(string.punctuation, " " * len(string.punctuation)))
     return " ".join(text.split())
-
 
 def main():
     responses = {
@@ -48,7 +46,6 @@ def main():
         except (KeyboardInterrupt, EOFError):
             print("\nZinix: Goodbye! Have a great day!")
             break
-
 
 if __name__ == "__main__":
     main()
