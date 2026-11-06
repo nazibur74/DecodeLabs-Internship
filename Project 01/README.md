@@ -47,13 +47,13 @@ Project 01/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Zinix.git
+   git clone https://github.com/YOUR_USERNAME/DecodeLabs-Internship.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Zinix
+   cd Project 01
    ```
 
 3. Run the chatbot:
