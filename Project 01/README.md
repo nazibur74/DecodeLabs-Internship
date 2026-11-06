@@ -1,16 +1,16 @@
-# Zinix – Rule-Based AI Chatbot 🤖
+# Zinix – Rule-Based AI Chatbot
 
 Zinix is a simple rule-based AI chatbot developed using Python as part of **Artificial Intelligence Project 1 – Industrial Training at DecodeLabs**.
 
 The chatbot simulates basic human interaction through predefined responses, dictionary-based knowledge mapping, and rule-based decision-making logic.
 
-## 📌 Project Overview
+## Project Overview
 
 Zinix is designed to demonstrate the fundamental concepts of rule-based artificial intelligence, including input sanitization, control flow, decision-making, and continuous user interaction.
 
 Unlike machine learning-based chatbots, Zinix uses predefined rules and exact input matching to generate responses.
 
-## ✨ Features
+## Features
 
 - **Rule-Based Responses:** Responds to predefined user inputs.
 - **Input Sanitization:** Handles uppercase letters, punctuation, and extra whitespace.
@@ -20,13 +20,13 @@ Unlike machine learning-based chatbots, Zinix uses predefined rules and exact in
 - **Exit Commands:** Supports `bye`, `exit`, and `quit`.
 - **Error Handling:** Handles keyboard interruption and end-of-input gracefully.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Standard Python Libraries
   - `string`
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Project 01/
@@ -35,7 +35,7 @@ Project 01/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -62,7 +62,7 @@ Project 01/
    python ai_chatbot.py
    ```
 
-## 💬 Example Interaction
+## Example Interaction
 
 ```text
 Hi There, Welcome to Zinix!
@@ -83,7 +83,7 @@ You: bye
 Zinix: Goodbye! Have a great day!
 ```
 
-## 🧠 Concepts Demonstrated
+## Concepts Demonstrated
 
 - Rule-Based Artificial Intelligence
 - Input Sanitization and Normalization
@@ -93,11 +93,11 @@ Zinix: Goodbye! Have a great day!
 - Exception Handling
 - Basic Human-Computer Interaction
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project is to understand how intelligent interfaces can be constructed using explicit programming rules and deterministic decision-making logic.
 
-## 👨‍💻 Author
+## Author
 
 **Nazibur Rahman**
 
