@@ -1,4 +1,4 @@
-# AI Project 1: Zinix – Rule-Based AI Chatbot
+# AI Project 1: Zinix – Rule-Based AI Chatbot 
 
 Zinix is a simple rule-based AI chatbot developed using Python as part of **Artificial Intelligence Project 1 – Industrial Training at DecodeLabs**.
 
